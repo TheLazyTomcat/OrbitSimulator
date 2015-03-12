@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   inkscape:label="Pozadí"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="ProgramIcon.svg">
+  <defs
+     id="defs3">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective9" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.6986"
+     inkscape:cx="378.57143"
+     inkscape:cy="623.44207"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#626dcb;stroke-width:7.64842653;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2817"
+       sodipodi:cx="362.85715"
+       sodipodi:cy="452.36218"
+       sodipodi:rx="260"
+       sodipodi:ry="260"
+       d="m 622.85715,452.36218 a 260,260 0 1 1 -520,0 260,260 0 1 1 520,0 z"
+       transform="matrix(0.65372923,0,0,0.65372923,127.07826,153.77693)"
+       inkscape:export-filename="E:\Programy\Programs\Orbit Simulator\Dev\Documents\ProgramIcon.png"
+       inkscape:export-xdpi="40.389999"
+       inkscape:export-ydpi="40.389999" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#e34000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2815"
+       sodipodi:cx="361.42856"
+       sodipodi:cy="462.36218"
+       sodipodi:rx="152.85715"
+       sodipodi:ry="152.85715"
+       d="m 514.28571,462.36218 a 152.85715,152.85715 0 1 1 -305.7143,0 152.85715,152.85715 0 1 1 305.7143,0 z"
+       transform="matrix(0.79386815,0,0,0.79386815,77.361961,82.444703)"
+       inkscape:export-filename="E:\Programy\Programs\Orbit Simulator\Dev\Documents\ProgramIcon.png"
+       inkscape:export-xdpi="40.389999"
+       inkscape:export-ydpi="40.389999" />
+    <path
+       d="m 622.85715,452.36218 a 260,260 0 1 1 -520,0 260,260 0 1 1 520,0 z"
+       sodipodi:ry="260"
+       sodipodi:rx="260"
+       sodipodi:cy="452.36218"
+       sodipodi:cx="362.85715"
+       id="path3617"
+       style="fill:none;stroke:#626dcb;stroke-width:4.59876108;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       transform="matrix(1.0872493,0,0,1.0872493,-30.227597,-42.331153)"
+       inkscape:export-filename="E:\Programy\Programs\Orbit Simulator\Dev\Documents\ProgramIcon.png"
+       inkscape:export-xdpi="40.389999"
+       inkscape:export-ydpi="40.389999" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#8de300;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2819"
+       sodipodi:cx="277.14285"
+       sodipodi:cy="143.79076"
+       sodipodi:rx="54.285713"
+       sodipodi:ry="54.285713"
+       d="m 331.42857,143.79076 a 54.285713,54.285713 0 1 1 -108.57143,0 54.285713,54.285713 0 1 1 108.57143,0 z"
+       transform="translate(-113.25507,106.73919)"
+       inkscape:export-filename="E:\Programy\Programs\Orbit Simulator\Dev\Documents\ProgramIcon.png"
+       inkscape:export-xdpi="40.389999"
+       inkscape:export-ydpi="40.389999" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#02eff6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3619"
+       sodipodi:cx="558.2594"
+       sodipodi:cy="169.16722"
+       sodipodi:rx="31.491554"
+       sodipodi:ry="31.491554"
+       d="m 589.75095,169.16722 a 31.491554,31.491554 0 1 1 -62.9831,0 31.491554,31.491554 0 1 1 62.9831,0 z"
+       transform="translate(-52.963069,370.74148)"
+       inkscape:export-filename="E:\Programy\Programs\Orbit Simulator\Dev\Documents\ProgramIcon.png"
+       inkscape:export-xdpi="40.389999"
+       inkscape:export-ydpi="40.389999" />
+  </g>
+</svg>
