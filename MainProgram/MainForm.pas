@@ -318,6 +318,27 @@ var
     Pluto.VelocityZ := 0;
   end;
 
+  procedure PrepareSystem_010;  (* SOL + Pluto*)
+  begin
+    Sun := AddBodyToSystem(nil,cSunInfo);
+    PBodyInfo(Sun.Data)^.DrawInfo.ZoomRadius := 7.4e12;
+    AddBodyToSystem(Sun,cMercuryInfo);
+    AddBodyToSystem(Sun,cVenusInfo);
+    Earth := AddBodyToSystem(Sun,cEarthInfo);
+    PBodyInfo(Earth.Data)^.DrawInfo.ZoomRadius := 500000000;
+    AddBodyToSystem(Earth,cMoonInfo);
+    AddBodyToSystem(Sun,cMarsInfo);
+    AddBodyToSystem(Sun,cJupiterInfo);
+    AddBodyToSystem(Sun,cSaturnInfo);
+    AddBodyToSystem(Sun,cUranusInfo);
+    AddBodyToSystem(Sun,cNeptuneInfo);
+    Pluto := AddBodyToSystem(Sun,cPlutoInfo);
+    Pluto.PositionZ := -Pluto.PositionX;
+    Pluto.PositionX := 0;
+    Pluto.VelocityX := Pluto.VelocityZ;
+    Pluto.VelocityZ := 0;
+  end;
+
 begin
 lbBodies.Items.Clear;
 OrbitalSystem.ClearBodies;
@@ -331,6 +352,7 @@ case SystemNumber of
   7:  PrepareSystem_007;
   8:  PrepareSystem_008;
   9:  PrepareSystem_009;
+ 10:  PrepareSystem_010;  
 else
   PrepareSystem_000;
 end;

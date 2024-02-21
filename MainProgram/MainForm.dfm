@@ -1388,8 +1388,9 @@ object fMainForm: TfMainForm
       'Jupiter - Galilean moons'
       'Saturn - Titan'
       'Neptune - Triton'
-      'Inner SOL planets+ Moon'
-      'Outer SOL planets + Pluto')
+      'Inner SOL planets + Moon'
+      'Outer SOL planets + Pluto'
+      'SOL planets + Moon and Pluto')
   end
   object tmrSimTimer: TTimer
     Enabled = False
